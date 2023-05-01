@@ -70,8 +70,11 @@ As a new user of the application, I want to be able to register an account with 
 2. The errors will be confined to _'html > form.html'_ and _'javascript > form-validation.js'_
 3. Add comments with a short description of the fix
 
-### Step 4 - Save your work:
+### Step 4 - Upload your work:
 1. Save any work you've done in a folder alongside Section A's Postman work. You will want to save: 
   - Your test cases 
   - Details of errors that you found
   - The _'form.html'_ and _'form-validation.js'_ files (if you completed the optional step)
+2. Upload your work somewhere accessible to us, ideally to Github/Gitlab, and send us the link. 
+### Optional - Send feedback:
+We really welcome any feedback! Let us know what you thought of this exercise.
